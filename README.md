@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Fanus Abraha
 ####  Fullstack Software Developer and Automation Technology programmer
 
-![ Fullstack Software Developer and Automation Technology programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![ Fullstack Software Developer and Automation Technology programmer](https://github.com/fanusabraha/fanusabraha/blob/main/Phases%20%26%20Spaces%20Inc..png)
 
 I am fanus Abraha, Software Developer from tennesse. 
 I really enjoy learning and developing programming languages and frameworks. I also enjoy working in group of programmers and developing amazing Apps and Websites, which i gained a lot of experience and achieved a great succcess.
