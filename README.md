@@ -8,7 +8,7 @@ I really enjoy learning and developing programming languages and frameworks. I a
 
 ## Skills:
 
-JAVA/ REACT / JS / HTML / CSS/ SPS / LOGO
+JAVA/ REACT / Spring / SQL /Maven / JS / HTML / CSS/ SPS / LOGO
 - 👀🌱 I’m currently learning FrontEnd languages and frameworks like JavaScript and React
 - 📫 How to reach me Contact me here or Email Fanizmo@yahoo.com
 
