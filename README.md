@@ -13,7 +13,7 @@ which i gained a lot of experience and achieved a great succcess.
 
 JAVA/ REACT / Spring / SQL /Maven / JS / HTML / CSS/ SPS / LOGO
 - 👀🌱 I’m currently learning FrontEnd languages and frameworks like JavaScript and React
-- 📫 How to reach me Contact me here or Email Fanizmo@yahoo.com
+- 📫 How to reach me Contact me here or Email fanus.driv@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanusabraha&theme=merko&show_icons=true)
 
