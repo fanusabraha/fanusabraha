@@ -10,14 +10,14 @@ Working collaboratively with other programmers to build amazing apps and website
 
 ## Skills:
 
-** 👀🌱 Programming Languages & Frameworks:**
+__ 👀🌱 Programming Languages & Frameworks:__
 
 Backend: Java, Spring, Maven <br>
 Frontend: React, JavaScript, HTML, CSS <br>
 Database: SQL <br>
 Automation: SPS, LOGO <br>
 <br>
-** Currently Learning:** <br>
+__Currently Learning:__ <br>
 Frontend frameworks like React and advanced JavaScript libraries.
 - 📫  How to Reach Me 
 Feel free to connect with me: <br>
