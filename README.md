@@ -3,7 +3,7 @@
 
 ![ Fullstack Software Developer and Automation Technology programmer](https://github.com/fanusabraha/fanusabraha/blob/main/Phases%20%26%20Spaces%20Inc..png)
 
-I am Fanus Abraha, a passionate Software Developer with expertise in both Fullstack Development and Automation Technology.
+I am Fanus Abraha, a passionate __Software Developer__ with expertise in both __Fullstack Development__ and __Automation Technology__.
 
 I enjoy learning and developing new programming languages and frameworks.
 Working collaboratively with other programmers to build amazing apps and websites has been a source of personal growth and professional success for me.
