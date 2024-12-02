@@ -1,19 +1,33 @@
 ### Hi there 👋, My name is Fanus Abraha
-####  Fullstack Software Developer and Automation Technology programmer
+####  Fullstack Software Developer | Automation Technology Programmer
 
 ![ Fullstack Software Developer and Automation Technology programmer](https://github.com/fanusabraha/fanusabraha/blob/main/Phases%20%26%20Spaces%20Inc..png)
 
-I am fanus Abraha, Software Developer from tennesse.
+I am Fanus Abraha, a passionate Software Developer with expertise in both Fullstack Development and Automation Technology.
 
-I really enjoy learning and developing programming languages and frameworks.
-I also enjoy working in group of programmers and developing amazing Apps and Websites,
-which i gained a lot of experience and achieved a great succcess.
+I enjoy learning and developing new programming languages and frameworks.
+Working collaboratively with other programmers to build amazing apps and websites has been a source of personal growth and professional success for me.
 
 ## Skills:
 
-JAVA/ REACT / Spring / SQL /Maven / JS / HTML / CSS/ SPS / LOGO
-- 👀🌱 I’m currently learning FrontEnd languages and frameworks like JavaScript and React
-- 📫 How to reach me Contact me here or Email fanus.driv@gmail.com
+- 👀🌱 Programming Languages & Frameworks:
+
+Backend: Java, Spring, Maven
+Frontend: React, JavaScript, HTML, CSS
+Database: SQL
+Automation: SPS, LOGO
+Currently Learning:
+
+Frontend frameworks like React and advanced JavaScript libraries.
+- 📫 Feel free to connect with me:
+
+Email: fanus.driv@gmail.com
+GitHub
+LinkedIn
+Facebook
+Instagram
+YouTube
+Personal Website
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanusabraha&theme=merko&show_icons=true)
 
