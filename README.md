@@ -12,21 +12,22 @@ Working collaboratively with other programmers to build amazing apps and website
 
 - 👀🌱 Programming Languages & Frameworks:
 
-Backend: Java, Spring, Maven
-Frontend: React, JavaScript, HTML, CSS
-Database: SQL
-Automation: SPS, LOGO
-Currently Learning:
+Backend: Java, Spring, Maven <br>
+Frontend: React, JavaScript, HTML, CSS <br>
+Database: SQL <br>
+Automation: SPS, LOGO <br>
+Currently Learning:<br>
 
 Frontend frameworks like React and advanced JavaScript libraries.
-- 📫 Feel free to connect with me:
-
-Email: fanus.driv@gmail.com
-GitHub: https://github.com/fanusabraha
-LinkedIn: https://www.linkedin.com/in/fanus-abraha/
-Facebook
-Instagram
-YouTube
+- 📫  How to Reach Me
+  
+Feel free to connect with me:
+Email: fanus.driv@gmail.com <br>
+GitHub: https://github.com/fanusabraha <br>
+LinkedIn: https://www.linkedin.com/in/fanus-abraha/ <br>
+Facebook <br>
+Instagram <br>
+YouTube <br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanusabraha&theme=merko&show_icons=true)
