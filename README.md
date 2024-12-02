@@ -10,7 +10,7 @@ Working collaboratively with other programmers to build amazing apps and website
 
 ## Skills:
 
-__ 👀🌱 Programming Languages & Frameworks:__
+👀🌱 __Programming Languages & Frameworks__:
 
 Backend: Java, Spring, Maven <br>
 Frontend: React, JavaScript, HTML, CSS <br>
