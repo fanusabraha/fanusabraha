@@ -16,12 +16,12 @@ Backend: Java, Spring, Maven <br>
 Frontend: React, JavaScript, HTML, CSS <br>
 Database: SQL <br>
 Automation: SPS, LOGO <br>
+<br>
 Currently Learning:<br>
-
 Frontend frameworks like React and advanced JavaScript libraries.
-- 📫  How to Reach Me
-  
-Feel free to connect with me:
+- 📫  How to Reach Me 
+Feel free to connect with me: <br>
+
 Email: fanus.driv@gmail.com <br>
 GitHub: https://github.com/fanusabraha <br>
 LinkedIn: https://www.linkedin.com/in/fanus-abraha/ <br>
