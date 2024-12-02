@@ -22,12 +22,12 @@ Frontend frameworks like React and advanced JavaScript libraries.
 - 📫 Feel free to connect with me:
 
 Email: fanus.driv@gmail.com
-GitHub
-LinkedIn
+GitHub: https://github.com/fanusabraha
+LinkedIn: https://www.linkedin.com/in/fanus-abraha/
 Facebook
 Instagram
 YouTube
-Personal Website
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanusabraha&theme=merko&show_icons=true)
 
