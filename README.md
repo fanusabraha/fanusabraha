@@ -13,6 +13,7 @@ Working collaboratively with other programmers to build amazing apps and website
 - 👀🌱 Programming Languages & Frameworks:
 
 Backend: Java, Spring, Maven
+
 Frontend: React, JavaScript, HTML, CSS
 Database: SQL
 Automation: SPS, LOGO
