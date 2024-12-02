@@ -29,7 +29,7 @@ Facebook <br>
 Instagram <br>
 YouTube <br>
 
-
+"These applications are designed to help developers practice and improve their skills through hands-on exercises and educational challenges. Feel free to contact me for any assistance or guidance."
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fanusabraha&theme=merko&show_icons=true)
 
 
